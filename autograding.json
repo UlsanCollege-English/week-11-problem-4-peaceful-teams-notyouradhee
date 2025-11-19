@@ -1,0 +1,12 @@
+{
+  "tests": [
+    {
+      "name": "pytest",
+      "setup": "",
+      "run": "pytest --maxfail=1 --disable-warnings -q",
+      "input": "",
+      "output": "",
+      "comparison": "contains"
+    }
+  ]
+}
